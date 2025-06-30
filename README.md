@@ -2,7 +2,7 @@
 
 1. Clone the repository to a Gadi location
 2. Login to: https://are.nci.org.au/
-3. Fill up the submission form with followings and launch
+3. Fill up the submission form with the following and launch
 ```
 Walltime (hours): 2
 Queue: dgxa100
